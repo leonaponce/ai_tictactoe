@@ -5,3 +5,4 @@ Deliverables
 -#1: Unbeatable program created; i.e. user cannot get 3 X's or 3 O's in a row
 -#2: Utilizes Tensorflow.Js
 -#3: Colorful, user-friendly interface
+-#4: Integrate SVGs, attractive coloring using color principles to improve UX.
